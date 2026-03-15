@@ -9,8 +9,8 @@ et qui affiche une appréciation selon la moyenne.
 - Calcule la moyenne
 - Affiche une appréciation adaptée :
   - Moyenne > 16 → Excellent travail 🎉
-  - Moyenne entre 10 et 16 → Bon travail 👍
-  - Moyenne < 10 → Courage, tu peux t’améliorer 💪
+  - Moyenne entre 11 et 16 → Bon travail 👍
+  - Moyenne <= 10 → Courage, tu peux t’améliorer 💪
  
 ## Comment utiliser
 1. Télécharger le fichier `moyenne_notes.py`
